@@ -1,0 +1,1 @@
+ /Users/bong/Documents/mangrow/project/soop/flutter/soop_web/.dart_tool/flutter_build/e2200131f8c5a3f3e331c8e76b65f782/native_assets.yaml: 
